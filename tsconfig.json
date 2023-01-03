@@ -1,0 +1,11 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "target": "es2022",
+        "module": "CommonJS",
+        "moduleResolution": "node"
+    }
+}
