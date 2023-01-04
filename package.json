@@ -2,6 +2,10 @@
   "name": "ip-string-to-number",
   "version": "1.0.0",
   "description": "A simple tool, that helps you to convert ipv4 or ipv6 string to number (Int or BigInt)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkonasov/ip-string-to-number.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
