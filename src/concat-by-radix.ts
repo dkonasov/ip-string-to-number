@@ -19,5 +19,9 @@ export function concatByRadix(
       (shift as number) += radixSize;
     }
   }
+
+  if (typeof result === "number") {
+    result = result >>> 0;
+  }
   return result;
 }
