@@ -1,4 +1,4 @@
-# ip-string-to-number
+# ip-string-to-number &middot; [![npm](https://img.shields.io/npm/v/react-aport)](https://www.npmjs.com/package/ip-string-to-number)
 
 Simple helper functions for converting IP addresses from human-readable string to integers. IPv6 support included!
 
